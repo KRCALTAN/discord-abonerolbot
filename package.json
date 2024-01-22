@@ -1,0 +1,17 @@
+{
+  "name": "perhsen-youtube",
+  "version": "1.0.0",
+  "description": "Perhsen Tarafından Geliştirilen Abone Kontrol Botudur",
+  "main": "perhsen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "perhsen"
+  ],
+  "author": "perhsen",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
